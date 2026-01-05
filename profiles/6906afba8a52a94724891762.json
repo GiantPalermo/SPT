@@ -123,7 +123,7 @@
             "Effects": {}
           }
         },
-        "UpdateTime": 1767611117
+        "UpdateTime": 1767611325
       },
       "Inventory": {
         "items": [
@@ -4851,7 +4851,7 @@
               "StackObjectsCount": 1,
               "SpawnedInSession": false,
               "RepairKit": {
-                "Resource": 921.9028024473228
+                "Resource": 918.1465333648957
               }
             }
           },
@@ -10342,7 +10342,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 50
+              "StackObjectsCount": 37
             }
           },
           {
@@ -11308,15 +11308,11 @@
           {
             "_id": "695a43e35621e75f20a95b05",
             "_tpl": "5efb0e16aeb21837e749c7ff",
-            "parentId": "69514e50871b68dbacc471b0",
-            "slotId": "main",
-            "location": {
-              "x": 5,
-              "y": 1,
-              "r": "Horizontal"
-            },
+            "parentId": "695a42865621e75f20a9012c",
+            "slotId": "cartridges",
+            "location": 0,
             "upd": {
-              "StackObjectsCount": 36
+              "StackObjectsCount": 30
             }
           },
           {
@@ -12152,11 +12148,11 @@
           {
             "_id": "695a43e35621e75f20a95b09",
             "_tpl": "5efb0e16aeb21837e749c7ff",
-            "parentId": "695a42865621e75f20a9012c",
+            "parentId": "695a43ba5621e75f20a94d8c",
             "slotId": "cartridges",
             "location": 0,
             "upd": {
-              "StackObjectsCount": 16
+              "StackObjectsCount": 30
             }
           },
           {
@@ -12188,7 +12184,7 @@
             "slotId": "cartridges",
             "location": 0,
             "upd": {
-              "StackObjectsCount": 25
+              "StackObjectsCount": 30
             }
           },
           {
@@ -12222,8 +12218,8 @@
             "slotId": "Soft_armor_back",
             "upd": {
               "Repairable": {
-                "Durability": 36.3993034,
-                "MaxDurability": 37.44769
+                "Durability": 36.35769,
+                "MaxDurability": 36.35769
               }
             }
           },
@@ -12258,7 +12254,7 @@
             "slotId": "Front_plate",
             "upd": {
               "Repairable": {
-                "Durability": 47.5492172,
+                "Durability": 52.002084094119475,
                 "MaxDurability": 55.31874
               }
             }
@@ -12599,10 +12595,10 @@
             "Progress": 3387.24146
           },
           {
-            "PointsEarnedDuringSession": 0,
-            "LastAccess": 1767527767,
+            "PointsEarnedDuringSession": 0.11268807247281074,
+            "LastAccess": 1767611415,
             "Id": "Intellect",
-            "Progress": 103.754379
+            "Progress": 103.86706707247282
           },
           {
             "PointsEarnedDuringSession": 1.336,
@@ -12743,16 +12739,16 @@
             "Progress": 25.5
           },
           {
-            "PointsEarnedDuringSession": 0,
-            "LastAccess": 1767522777,
+            "PointsEarnedDuringSession": 0.0012349776923656465,
+            "LastAccess": 1767611415,
             "Id": "LightVests",
-            "Progress": 52.5723
+            "Progress": 52.57353497769236
           },
           {
-            "PointsEarnedDuringSession": 0,
-            "LastAccess": 1767522777,
+            "PointsEarnedDuringSession": 0.18657847642898562,
+            "LastAccess": 1767611415,
             "Id": "HeavyVests",
-            "Progress": 49.7481766
+            "Progress": 49.934755076428985
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -19874,7 +19870,7 @@
         "HideoutCounters": null,
         "Seed": "b806940610728ecb46bc1217ce9ef353",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1767611138,
+        "sptUpdateLastRunTimestamp": 1767611431,
         "Customization": {
           "Wall": "675467c924c9a7ccb509d62f",
           "Floor": "675466825b7ebafefd0ebc2c",
