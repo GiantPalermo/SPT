@@ -19,7 +19,7 @@
         "Nickname": "headless_692118f5eaaef1cddcc7f05a",
         "LowerNickname": "headless_692118f5eaaef1cddcc7f05a",
         "Side": "Usec",
-        "Level": 41,
+        "Level": 1,
         "Experience": 0,
         "RegistrationDate": 1763776758,
         "GameVersion": "standard",
@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1767611988
+        "UpdateTime": 1767617398
       },
       "Inventory": {
         "items": [
@@ -1146,7 +1146,7 @@
         "HideoutCounters": null,
         "Seed": "586674d45725def349ac9e28df3f1677",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1767616642,
+        "sptUpdateLastRunTimestamp": 1767621236,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -4050,6 +4050,13 @@
         "author": "Solarint",
         "dateAdded": 1767609228,
         "url": "https://github.com/ArchangelWTF/SAIN"
+      },
+      {
+        "name": "UI Fixes",
+        "version": "5.1.2",
+        "author": "Tyfon",
+        "dateAdded": 1767617398,
+        "url": "https://github.com/tyfon7/uifixes"
       }
     ],
     "receivedGifts": [
