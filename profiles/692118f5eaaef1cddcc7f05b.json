@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1767674848
+        "UpdateTime": 1768000946
       },
       "Inventory": {
         "items": [
@@ -1146,7 +1146,7 @@
         "HideoutCounters": null,
         "Seed": "586674d45725def349ac9e28df3f1677",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1767677187,
+        "sptUpdateLastRunTimestamp": 1768002707,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -4057,6 +4057,18 @@
         "author": "Tyfon",
         "dateAdded": 1767617398,
         "url": "https://github.com/tyfon7/uifixes"
+      },
+      {
+        "name": "Bot Callsigns",
+        "version": "2.0.3",
+        "author": "harmony",
+        "dateAdded": 1768000600
+      },
+      {
+        "name": "Twitch Players",
+        "version": "3.0.7",
+        "author": "harmony",
+        "dateAdded": 1768000600
       }
     ],
     "receivedGifts": [
