@@ -22,7 +22,7 @@
         "LowerNickname": "kinglalafell",
         "Side": "Usec",
         "Level": 36,
-        "Experience": 1861778,
+        "Experience": 1861818,
         "RegistrationDate": 1768109993,
         "GameVersion": "unheard_edition",
         "AccountType": 0,
@@ -61,11 +61,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 78,
+          "Current": 100,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 53,
+          "Current": 110,
           "Maximum": 110
         },
         "Temperature": {
@@ -122,7 +122,7 @@
             }
           }
         },
-        "UpdateTime": 1768797771
+        "UpdateTime": 1768799798
       },
       "Inventory": {
         "items": [
@@ -11102,7 +11102,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 677778
+              "StackObjectsCount": 671477
             }
           },
           {
@@ -13931,10 +13931,10 @@
           {
             "_id": "696b77c14da6de230cda1ed7",
             "_tpl": "658199972dc4e60f6d556a2f",
-            "parentId": "696c8c4453ad075f74f89eec",
+            "parentId": "6964862b6ae7258c90e218bb",
             "slotId": "main",
             "location": {
-              "x": 0,
+              "x": 1,
               "y": 0,
               "r": "Horizontal"
             },
@@ -15275,20 +15275,6 @@
             }
           },
           {
-            "_id": "696c5e8a53ad075f74df3e76",
-            "_tpl": "60a7acf20c5cb24b01346648",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 8,
-              "y": 31,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "SpawnedInSession": true
-            }
-          },
-          {
             "_id": "696c5e8a53ad075f74df3f83",
             "_tpl": "5c94bbff86f7747ee735c08f",
             "parentId": "696483656ae7258c90de754a",
@@ -16335,14 +16321,18 @@
           {
             "_id": "696c8c4453ad075f74f89eec",
             "_tpl": "590c60fc86f77412b13fddcf",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
+            "parentId": "696337a952c41b57784da520",
+            "slotId": "main",
             "location": {
-              "x": 5,
-              "y": 22,
+              "x": 2,
+              "y": 1,
               "r": "Horizontal"
             },
             "upd": {
+              "Tag": {
+                "Color": 0,
+                "Name": "LightHouse"
+              },
               "StackObjectsCount": 1,
               "SpawnedInSession": true
             }
@@ -17590,8 +17580,8 @@
             "parentId": "664115f68b8ae85875060b39",
             "slotId": "hideout",
             "location": {
-              "x": 8,
-              "y": 30,
+              "x": 4,
+              "y": 26,
               "r": "Horizontal"
             },
             "upd": {
@@ -17762,8 +17752,8 @@
             "parentId": "664115f68b8ae85875060b39",
             "slotId": "hideout",
             "location": {
-              "x": 3,
-              "y": 2,
+              "x": 8,
+              "y": 30,
               "r": "Horizontal"
             },
             "upd": {
@@ -18468,48 +18458,6 @@
             }
           },
           {
-            "_id": "696d9f3a649296869c88d6eb",
-            "_tpl": "6576f4708ca9c4381d16cd9d",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 9,
-              "y": 8,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 50
-            }
-          },
-          {
-            "_id": "696d9f3a649296869c88d6ec",
-            "_tpl": "6576f4708ca9c4381d16cd9d",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 8,
-              "y": 9,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 50
-            }
-          },
-          {
-            "_id": "696d9f3a649296869c88d6ed",
-            "_tpl": "6576f4708ca9c4381d16cd9d",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 9,
-              "y": 9,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 50
-            }
-          },
-          {
             "_id": "696da052649296869c896260",
             "_tpl": "635a758bfefc88a93f021b8a",
             "parentId": "664115f68b8ae85875060b39",
@@ -19018,34 +18966,6 @@
             "slotId": "Pockets"
           },
           {
-            "_id": "696d9f37649296869c88d6e4",
-            "_tpl": "6576f4708ca9c4381d16cd9d",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 8,
-              "y": 8,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 50
-            }
-          },
-          {
-            "_id": "696d9f3a649296869c88d6ee",
-            "_tpl": "6576f4708ca9c4381d16cd9d",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 7,
-              "y": 9,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 50
-            }
-          },
-          {
             "_id": "696db34be76ae979841cce94",
             "_tpl": "617fd91e5539a84ec44ce155",
             "parentId": "696337a952c41b57784da52a",
@@ -19256,24 +19176,13 @@
             }
           },
           {
-            "_id": "696db34be76ae979841ccb74",
-            "_tpl": "5ed515f6915ec335206e4152",
-            "parentId": "696337a952c41b57784da520",
-            "slotId": "main",
-            "location": {
-              "x": 1,
-              "y": 1,
-              "r": "Horizontal"
-            }
-          },
-          {
             "_id": "6964862b6ae7258c90e218bb",
             "_tpl": "590c60fc86f77412b13fddcf",
-            "parentId": "696337a952c41b57784da520",
-            "slotId": "main",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
             "location": {
-              "x": 2,
-              "y": 1,
+              "x": 1,
+              "y": 22,
               "r": "Horizontal"
             },
             "upd": {
@@ -19331,8 +19240,8 @@
             "parentId": "696633542cd1338480f95d9e",
             "slotId": "main",
             "location": {
-              "x": 0,
-              "y": 0,
+              "x": 1,
+              "y": 1,
               "r": "Horizontal"
             }
           },
@@ -19565,34 +19474,6 @@
             }
           },
           {
-            "_id": "696d9f37649296869c88d6e5",
-            "_tpl": "6576f4708ca9c4381d16cd9d",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 6,
-              "y": 8,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 50
-            }
-          },
-          {
-            "_id": "696d9f38649296869c88d6e8",
-            "_tpl": "6576f4708ca9c4381d16cd9d",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 7,
-              "y": 8,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 50
-            }
-          },
-          {
             "_id": "696a2b2e2b49e46af05d21de",
             "_tpl": "5e8488fa988a8701445df1e4",
             "parentId": "696d9f72649296869c88e717",
@@ -19654,20 +19535,6 @@
               "MedKit": {
                 "HpResource": 284
               }
-            }
-          },
-          {
-            "_id": "696d9f38649296869c88d6e7",
-            "_tpl": "6576f4708ca9c4381d16cd9d",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 6,
-              "y": 9,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 50
             }
           },
           {
@@ -19838,109 +19705,6 @@
                 "MaxDurability": 85
               }
             }
-          },
-          {
-            "_id": "696db34be76ae979841ccafd",
-            "_tpl": "5b1fa9b25acfc40018633c01",
-            "parentId": "696337a952c41b57784da507",
-            "slotId": "Holster",
-            "upd": {
-              "Repairable": {
-                "Durability": 98,
-                "MaxDurability": 99
-              },
-              "FireMode": {
-                "FireMode": "single"
-              }
-            }
-          },
-          {
-            "_id": "696db34be76ae979841ccb06",
-            "_tpl": "5c925fa22e221601da359b7b",
-            "parentId": "696db34be76ae979841ccafd",
-            "slotId": "patron_in_weapon"
-          },
-          {
-            "_id": "696db34be76ae979841ccb05",
-            "_tpl": "6272379924e29f06af4d5ecb",
-            "parentId": "696db34be76ae979841ccafd",
-            "slotId": "mod_tactical",
-            "upd": {
-              "Light": {
-                "IsActive": true,
-                "SelectedMode": 0
-              }
-            }
-          },
-          {
-            "_id": "696db34be76ae979841ccb03",
-            "_tpl": "5a718f958dc32e00094b97e7",
-            "parentId": "696db34be76ae979841ccafd",
-            "slotId": "mod_magazine"
-          },
-          {
-            "_id": "696db34be76ae979841ccb07",
-            "_tpl": "5c925fa22e221601da359b7b",
-            "parentId": "696db34be76ae979841ccb03",
-            "slotId": "cartridges",
-            "location": 0,
-            "upd": {
-              "StackObjectsCount": 50
-            }
-          },
-          {
-            "_id": "696db34be76ae979841ccaff",
-            "_tpl": "5b1faa0f5acfc40dc528aeb5",
-            "parentId": "696db34be76ae979841ccafd",
-            "slotId": "mod_reciever"
-          },
-          {
-            "_id": "696db34be76ae979841ccb00",
-            "_tpl": "5a71e0048dc32e000c52ecc8",
-            "parentId": "696db34be76ae979841ccaff",
-            "slotId": "mod_sight_front",
-            "upd": {
-              "Sight": {
-                "ScopesCurrentCalibPointIndexes": [
-                  0
-                ],
-                "ScopesSelectedModes": [
-                  0
-                ],
-                "SelectedScope": 0,
-                "ScopeZoomValue": 0
-              }
-            }
-          },
-          {
-            "_id": "696db34be76ae979841ccb01",
-            "_tpl": "5a71e0fb8dc32e00094b97f2",
-            "parentId": "696db34be76ae979841ccaff",
-            "slotId": "mod_sight_rear",
-            "upd": {
-              "Sight": {
-                "ScopesCurrentCalibPointIndexes": [
-                  0
-                ],
-                "ScopesSelectedModes": [
-                  0
-                ],
-                "SelectedScope": 0,
-                "ScopeZoomValue": 0
-              }
-            }
-          },
-          {
-            "_id": "696db34be76ae979841ccb02",
-            "_tpl": "5a7b4960e899ef197b331a2d",
-            "parentId": "696db34be76ae979841ccafd",
-            "slotId": "mod_pistol_grip"
-          },
-          {
-            "_id": "696db34be76ae979841ccafe",
-            "_tpl": "5b1fa9ea5acfc40018633c0a",
-            "parentId": "696db34be76ae979841ccafd",
-            "slotId": "mod_barrel"
           },
           {
             "_id": "696d981f6001a31564d341d0",
@@ -20154,20 +19918,6 @@
             "_tpl": "59db3a1d86f77429e05b4e92",
             "parentId": "696d981f6001a31564d341d0",
             "slotId": "mod_pistol_grip"
-          },
-          {
-            "_id": "696d9f38649296869c88d6e6",
-            "_tpl": "6576f4708ca9c4381d16cd9d",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 9,
-              "y": 7,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 23
-            }
           },
           {
             "_id": "664115f68b8ae85875060b3a",
@@ -20395,75 +20145,23 @@
             }
           },
           {
-            "_id": "696db87be76ae97984211bb5",
-            "_tpl": "56dff0bed2720bb0668b4567",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 8,
-              "y": 1,
-              "rotation": false,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 60
-            }
-          },
-          {
-            "_id": "696db87be76ae97984211bb6",
-            "_tpl": "56dff0bed2720bb0668b4567",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 9,
-              "y": 1,
-              "rotation": false,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 60
-            }
-          },
-          {
             "_id": "696db887e76ae97984211bb7",
             "_tpl": "61962b617c6c7b169525f168",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 6,
-              "y": 0,
-              "rotation": false,
-              "r": "Horizontal"
-            },
+            "parentId": "69636ce652c41b577867b270",
+            "slotId": "cartridges",
+            "location": 0,
             "upd": {
               "StackObjectsCount": 60
-            }
-          },
-          {
-            "_id": "696db88fe76ae97984211bc0",
-            "_tpl": "59e35ef086f7741777737012",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 9,
-              "y": 2,
-              "rotation": false,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 1,
-              "SpawnedInSession": false
             }
           },
           {
             "_id": "696db88fe76ae97984211bc1",
             "_tpl": "59e35ef086f7741777737012",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
+            "parentId": "6963383052c41b57784db46d",
+            "slotId": "main",
             "location": {
-              "x": 0,
-              "y": 3,
-              "rotation": false,
+              "x": 10,
+              "y": 0,
               "r": "Horizontal"
             },
             "upd": {
@@ -20474,14 +20172,9 @@
           {
             "_id": "696db89ae76ae97984211bc2",
             "_tpl": "61962b617c6c7b169525f168",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 7,
-              "y": 0,
-              "rotation": false,
-              "r": "Horizontal"
-            },
+            "parentId": "696731c8c9a53d565c88f88e",
+            "slotId": "cartridges",
+            "location": 0,
             "upd": {
               "StackObjectsCount": 60
             }
@@ -20489,14 +20182,9 @@
           {
             "_id": "696db8a5e76ae97984211bc3",
             "_tpl": "61962b617c6c7b169525f168",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 0,
-              "y": 0,
-              "rotation": false,
-              "r": "Horizontal"
-            },
+            "parentId": "696498de6ae7258c90ead349",
+            "slotId": "cartridges",
+            "location": 0,
             "upd": {
               "StackObjectsCount": 60
             }
@@ -20507,13 +20195,12 @@
             "parentId": "664115f68b8ae85875060b39",
             "slotId": "hideout",
             "location": {
-              "x": 1,
-              "y": 0,
-              "rotation": false,
+              "x": 6,
+              "y": 6,
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 60
+              "StackObjectsCount": 51
             }
           },
           {
@@ -20522,9 +20209,8 @@
             "parentId": "664115f68b8ae85875060b39",
             "slotId": "hideout",
             "location": {
-              "x": 2,
-              "y": 0,
-              "rotation": false,
+              "x": 7,
+              "y": 6,
               "r": "Horizontal"
             },
             "upd": {
@@ -20534,14 +20220,9 @@
           {
             "_id": "696db8cbe76ae97984211bc6",
             "_tpl": "61962b617c6c7b169525f168",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
-            "location": {
-              "x": 4,
-              "y": 0,
-              "rotation": false,
-              "r": "Horizontal"
-            },
+            "parentId": "69636ce652c41b577867b2b5",
+            "slotId": "cartridges",
+            "location": 0,
             "upd": {
               "StackObjectsCount": 60
             }
@@ -20552,9 +20233,8 @@
             "parentId": "664115f68b8ae85875060b39",
             "slotId": "hideout",
             "location": {
-              "x": 3,
-              "y": 0,
-              "rotation": false,
+              "x": 8,
+              "y": 6,
               "r": "Horizontal"
             },
             "upd": {
@@ -20564,12 +20244,11 @@
           {
             "_id": "696db8e4e76ae979842129bb",
             "_tpl": "61962b617c6c7b169525f168",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
+            "parentId": "696d9f72649296869c88e717",
+            "slotId": "GridView (10)",
             "location": {
-              "x": 5,
-              "y": 0,
-              "rotation": false,
+              "x": 0,
+              "y": 1,
               "r": "Horizontal"
             },
             "upd": {
@@ -20579,16 +20258,139 @@
           {
             "_id": "696db8f0e76ae979842129bc",
             "_tpl": "61962b617c6c7b169525f168",
-            "parentId": "664115f68b8ae85875060b39",
-            "slotId": "hideout",
+            "parentId": "696d9f72649296869c88e717",
+            "slotId": "GridView (10)",
             "location": {
-              "x": 8,
+              "x": 0,
               "y": 0,
-              "rotation": false,
               "r": "Horizontal"
             },
             "upd": {
               "StackObjectsCount": 60
+            }
+          },
+          {
+            "_id": "696dbab9bae61d113c88f833",
+            "_tpl": "61962b617c6c7b169525f168",
+            "parentId": "696498de6ae7258c90ead34a",
+            "slotId": "cartridges",
+            "location": 0,
+            "upd": {
+              "StackObjectsCount": 60
+            }
+          },
+          {
+            "_id": "696db704e76ae9798420d160",
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "parentId": "696482736ae7258c90de360a",
+            "slotId": "main",
+            "location": {
+              "x": 6,
+              "y": 1,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1000000
+            }
+          },
+          {
+            "_id": "696dbae401001d8bc89d4d61",
+            "_tpl": "61962b617c6c7b169525f168",
+            "parentId": "6964bbf66ae7258c90f90dbd",
+            "slotId": "cartridges",
+            "location": 1,
+            "upd": {
+              "StackObjectsCount": 9
+            }
+          },
+          {
+            "_id": "696dbb7fbae61d113c88faac",
+            "_tpl": "61aa5b518f5e7a39b41416e2",
+            "parentId": "696c8c4453ad075f74f89eec",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": false,
+              "Key": {
+                "NumberOfUsages": 0
+              }
+            }
+          },
+          {
+            "_id": "696dbb89bae61d113c88faad",
+            "_tpl": "61a6444b8c141d68246e2d2f",
+            "parentId": "696c8c4453ad075f74f89eec",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": false,
+              "Key": {
+                "NumberOfUsages": 0
+              }
+            }
+          },
+          {
+            "_id": "696dbba2bae61d113c88fabb",
+            "_tpl": "61aa5b7db225ac1ead7957c1",
+            "parentId": "696c8c4453ad075f74f89eec",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 0,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": false,
+              "Key": {
+                "NumberOfUsages": 0
+              }
+            }
+          },
+          {
+            "_id": "696dbba7bae61d113c88fabc",
+            "_tpl": "61aa5ba8018e9821b7368da9",
+            "parentId": "696c8c4453ad075f74f89eec",
+            "slotId": "main",
+            "location": {
+              "x": 3,
+              "y": 0,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": false,
+              "Key": {
+                "NumberOfUsages": 0
+              }
+            }
+          },
+          {
+            "_id": "696dbbaebae61d113c88fabd",
+            "_tpl": "66265d7be65f224b2e17c6aa",
+            "parentId": "696c8c4453ad075f74f89eec",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 1,
+              "r": "Horizontal"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": false,
+              "Key": {
+                "NumberOfUsages": 0
+              }
             }
           }
         ],
@@ -20651,7 +20453,7 @@
             "Progress": 5100
           },
           {
-            "PointsEarnedDuringSession": 0.0858,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1768797771,
             "Id": "StressResistance",
             "Progress": 917.162842
@@ -20669,26 +20471,26 @@
             "Progress": 494.636047
           },
           {
-            "PointsEarnedDuringSession": 16.0484238,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1768797771,
             "Id": "Perception",
             "Progress": 4344.397
           },
           {
             "PointsEarnedDuringSession": 0,
-            "LastAccess": 1768794716,
+            "LastAccess": 1768799143,
             "Id": "Intellect",
-            "Progress": 76.9543152
+            "Progress": 77.15431519999998
           },
           {
-            "PointsEarnedDuringSession": 7.013999,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1768797631,
             "Id": "Attention",
             "Progress": 2775.07
           },
           {
             "PointsEarnedDuringSession": 0,
-            "LastAccess": 1768657885,
+            "LastAccess": 1768799325,
             "Id": "Charisma",
             "Progress": 5100
           },
@@ -20705,13 +20507,13 @@
             "Progress": 7.88750029
           },
           {
-            "PointsEarnedDuringSession": 0.9000001,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1768797316,
             "Id": "SMG",
             "Progress": 819.8745
           },
           {
-            "PointsEarnedDuringSession": 0.6,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1768797697,
             "Id": "Assault",
             "Progress": 3123.32275
@@ -20753,7 +20555,7 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 2.6,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1768797525,
             "Id": "Throwing",
             "Progress": 408.008942
@@ -20771,7 +20573,7 @@
             "Progress": 335.6666
           },
           {
-            "PointsEarnedDuringSession": 0.8,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1768797382,
             "Id": "AimDrills",
             "Progress": 1060.25928
@@ -20795,13 +20597,13 @@
             "Progress": 187.344238
           },
           {
-            "PointsEarnedDuringSession": 8.978799,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1768797631,
             "Id": "Search",
             "Progress": 2972.14746
           },
           {
-            "PointsEarnedDuringSession": 0.2,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1768797483,
             "Id": "MagDrills",
             "Progress": 985.1605
@@ -20873,16 +20675,16 @@
             "Progress": 0
           },
           {
-            "PointsEarnedDuringSession": 10,
+            "PointsEarnedDuringSession": 0,
             "LastAccess": 1768798343,
             "Id": "Crafting",
             "Progress": 60.5
           },
           {
-            "PointsEarnedDuringSession": 36,
-            "LastAccess": 1768798448,
+            "PointsEarnedDuringSession": 0,
+            "LastAccess": 1768798905,
             "Id": "HideoutManagement",
-            "Progress": 1633.5
+            "Progress": 1637.5
           }
         ],
         "Mastering": [
@@ -25688,7 +25490,11 @@
         "5f0596629e22f464da6bbdd9": false,
         "67dc255ee3028a8b120efc48": false,
         "6389c7750ef44505c87f5996": false,
-        "5c052fb986f7746b2101e909": false
+        "5c052fb986f7746b2101e909": false,
+        "61aa5b518f5e7a39b41416e2": false,
+        "61a6444b8c141d68246e2d2f": false,
+        "61aa5b7db225ac1ead7957c1": false,
+        "61aa5ba8018e9821b7368da9": false
       },
       "TaskConditionCounters": {
         "65141df0e69594cf853a40b9": {
@@ -27113,12 +26919,6 @@
           "value": 0,
           "sourceId": "683421515619c8e2a9031511"
         },
-        "696481116ae7258c90ddda1a": {
-          "id": "696481116ae7258c90ddda1a",
-          "type": "HandoverItem",
-          "value": 2,
-          "sourceId": "696481116ae7258c90ddda18"
-        },
         "5bc850d186f7747213700892": {
           "id": "5bc850d186f7747213700892",
           "type": "CounterCreator",
@@ -28174,12 +27974,6 @@
           "type": "CounterCreator",
           "value": 0,
           "sourceId": "696ca657cfe3286f9832dfa2"
-        },
-        "673f5d6fdd6ed700c703afdc": {
-          "id": "68e6afc87a7e45aad3e31620",
-          "type": "CounterCrafting",
-          "value": 45,
-          "sourceId": "673f5d6fdd6ed700c703afdc"
         }
       },
       "InsuredItems": [
@@ -28526,6 +28320,90 @@
         {
           "tid": "54cb57776803fa99248b456e",
           "itemId": "696d981f6001a31564d341fc"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696db680e76ae9798420c3b9"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696da794e76ae97984175288"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696da794e76ae97984175289"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696da794e76ae9798417528a"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "69636ce652c41b577867b270"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696498de6ae7258c90ead34a"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "6964bbf66ae7258c90f90dbd"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696731c8c9a53d565c88f88e"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696498de6ae7258c90ead349"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696db680e76ae9798420c3ba"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696db680e76ae9798420c3bd"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696db7cde76ae9798420ef91"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696db680e76ae9798420c3be"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696db7cde76ae9798420ef93"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "69636ce652c41b577867b2b5"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696db7cde76ae9798420ef90"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696db7cde76ae9798420ef94"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696db680e76ae9798420c3bf"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696db7cde76ae9798420ef92"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696db7cde76ae9798420ef8f"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696da794e76ae9798417528b"
         }
       ],
       "Hideout": {
@@ -28545,7 +28423,7 @@
           },
           "66827062405f392b203a44cf": {
             "Products": [],
-            "Progress": 191,
+            "Progress": 2130,
             "inProgress": true,
             "StartTimestamp": 1768798296,
             "SkipTime": 0,
@@ -28967,8 +28845,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": true,
                       "Resource": {
-                        "Value": 17.5223,
-                        "UnitsConsumed": 2.4777
+                        "Value": 16.9393,
+                        "UnitsConsumed": 3.0607
                       }
                     }
                   }
@@ -29468,7 +29346,7 @@
         "HideoutCounters": null,
         "Seed": "5fc55268ffdb33183a7d69ab3b5f40ce",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1768798479,
+        "sptUpdateLastRunTimestamp": 1768800418,
         "Customization": {
           "Wall": "68fb6a28f0b98c76ea0dc313",
           "Floor": "675466d57dadca6836092b26",
@@ -30177,17 +30055,6 @@
           "completedConditions": [
             "5ae44c6886f7744f1a7eb2b8"
           ],
-          "availableAfter": 0
-        },
-        {
-          "qid": "696481116ae7258c90ddda18",
-          "startTime": 0,
-          "status": 2,
-          "statusTimers": {
-            "1": 1768196123.626,
-            "2": 1768354898.5019999
-          },
-          "completedConditions": [],
           "availableAfter": 0
         },
         {
@@ -32612,7 +32479,7 @@
         },
         "54cb57776803fa99248b456e": {
           "loyaltyLevel": 4,
-          "salesSum": 16381777,
+          "salesSum": 16466967,
           "standing": 1.01,
           "nextResupply": 1768118489,
           "unlocked": true,
@@ -32676,10 +32543,10 @@
         ]
       },
       "RagfairInfo": {
-        "rating": 8.113970179999994,
+        "rating": 8.146535979999994,
         "isRatingGrowing": true,
         "offers": [],
-        "sellSum": 44635152,
+        "sellSum": 44801398,
         "notSellSum": 579686
       },
       "Achievements": {
@@ -34171,6 +34038,185 @@
                 }
               ],
               "changeStandingCost": 0,
+              "questStatus": {
+                "id": "696dbb92bae61d113c88faaf",
+                "uid": "69347ce9c144008bc40c77b3",
+                "qid": "696dbb92bae61d113c88faae",
+                "startTime": 0,
+                "status": 1,
+                "statusTimers": {}
+              },
+              "_id": "696dbb92bae61d113c88faae",
+              "canShowNotificationsInGame": true,
+              "conditions": {
+                "AvailableForFinish": [
+                  {
+                    "id": "696dbb92bae61d113c88fab2",
+                    "index": 0,
+                    "dynamicLocale": true,
+                    "globalQuestCounterId": "",
+                    "visibilityConditions": [],
+                    "parentId": "",
+                    "value": 31,
+                    "type": "Elimination",
+                    "oneSessionOnly": false,
+                    "isResetOnConditionFailed": false,
+                    "isNecessary": false,
+                    "doNotResetIfCounterCompleted": false,
+                    "counter": {
+                      "id": "696dbb92bae61d113c88fab0",
+                      "conditions": [
+                        {
+                          "id": "696dbb92bae61d113c88fab1",
+                          "dynamicLocale": true,
+                          "target": "Savage",
+                          "value": 1,
+                          "bodyPart": [],
+                          "daytime": {
+                            "from": 0,
+                            "to": 0
+                          },
+                          "conditionType": "Kills",
+                          "enemyHealthEffects": [],
+                          "resetOnSessionEnd": false
+                        }
+                      ]
+                    },
+                    "completeInSeconds": 0,
+                    "conditionType": "CounterCreator"
+                  }
+                ],
+                "AvailableForStart": [],
+                "Fail": []
+              },
+              "description": "616052ea3054fc0e2c24ce6e description 54cb57776803fa99248b456e 0",
+              "failMessageText": "616052ea3054fc0e2c24ce6e failMessageText 54cb57776803fa99248b456e 0",
+              "name": "616052ea3054fc0e2c24ce6e name 54cb57776803fa99248b456e",
+              "note": "616052ea3054fc0e2c24ce6e note 54cb57776803fa99248b456e",
+              "traderId": "54cb57776803fa99248b456e",
+              "location": "any",
+              "image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
+              "type": "Elimination",
+              "isKey": false,
+              "restartable": false,
+              "instantComplete": false,
+              "secretQuest": false,
+              "startedMessageText": "616052ea3054fc0e2c24ce6e startedMessageText 54cb57776803fa99248b456e 0",
+              "successMessageText": "616052ea3054fc0e2c24ce6e successMessageText 54cb57776803fa99248b456e 0",
+              "acceptPlayerMessage": "616052ea3054fc0e2c24ce6e acceptPlayerMessage 54cb57776803fa99248b456e",
+              "acceptanceAndFinishingSource": "eft",
+              "declinePlayerMessage": "616052ea3054fc0e2c24ce6e declinePlayerMessage 54cb57776803fa99248b456e",
+              "completePlayerMessage": "616052ea3054fc0e2c24ce6e completePlayerMessage 54cb57776803fa99248b456e",
+              "templateId": "616052ea3054fc0e2c24ce6e",
+              "rewards": {
+                "Success": [
+                  {
+                    "value": 80392,
+                    "id": "696dbb92bae61d113c88fab3",
+                    "type": "Experience",
+                    "index": -1,
+                    "unknown": false,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 158258,
+                    "id": "696dbb92bae61d113c88fab5",
+                    "type": "Item",
+                    "index": 0,
+                    "target": "696dbb92bae61d113c88fab4",
+                    "items": [
+                      {
+                        "_id": "696dbb92bae61d113c88fab4",
+                        "_tpl": "5449016a4bdc2d6f028b456f",
+                        "upd": {
+                          "StackObjectsCount": 158258,
+                          "SpawnedInSession": false
+                        }
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": false,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 11,
+                    "id": "696dbb92bae61d113c88fab7",
+                    "type": "Item",
+                    "index": 1,
+                    "target": "696dbb92bae61d113c88fab6",
+                    "items": [
+                      {
+                        "_id": "696dbb92bae61d113c88fab6",
+                        "_tpl": "5d235b4d86f7742e017bc88a",
+                        "upd": {
+                          "StackObjectsCount": 11,
+                          "SpawnedInSession": true
+                        }
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": true,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 1,
+                    "id": "696dbb92bae61d113c88fab9",
+                    "type": "Item",
+                    "index": 2,
+                    "target": "696dbb92bae61d113c88fab8",
+                    "items": [
+                      {
+                        "_id": "696dbb92bae61d113c88fab8",
+                        "_tpl": "637b6179104668754b72f8f5",
+                        "upd": {
+                          "StackObjectsCount": 1,
+                          "SpawnedInSession": true
+                        }
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": true,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 0.03,
+                    "id": "696dbb92bae61d113c88faba",
+                    "type": "TraderStanding",
+                    "index": 3,
+                    "target": "54cb57776803fa99248b456e",
+                    "unknown": false,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  }
+                ],
+                "Started": [],
+                "Fail": []
+              },
+              "status": 0,
+              "changeQuestMessageText": "616052ea3054fc0e2c24ce6e changeQuestMessageText 54cb57776803fa99248b456e 0",
+              "side": "Pmc",
+              "progressSource": "eft",
+              "rankingModes": [],
+              "gameModes": [],
+              "arenaLocations": []
+            }
+          ],
+          "inactiveQuests": [
+            {
+              "changeCost": [
+                {
+                  "templateId": "5449016a4bdc2d6f028b456f",
+                  "count": 5000
+                }
+              ],
+              "changeStandingCost": 0,
               "sptRepatableGroupName": "Weekly",
               "questStatus": {
                 "id": "696481116ae7258c90ddda19",
@@ -34324,17 +34370,16 @@
               "arenaLocations": []
             }
           ],
-          "inactiveQuests": [],
-          "endTime": 1768799121,
+          "endTime": 1769403922,
           "changeRequirement": {
-            "696481116ae7258c90ddda18": {
+            "696dbb92bae61d113c88faae": {
               "changeCost": [
                 {
                   "templateId": "5449016a4bdc2d6f028b456f",
                   "count": 5000
                 }
               ],
-              "changeStandingCost": 0.01
+              "changeStandingCost": 0
             }
           },
           "freeChanges": 0,
@@ -35384,7 +35429,7 @@
         "LowerNickname": "",
         "Side": "Savage",
         "Level": 1,
-        "Experience": 7360,
+        "Experience": 7400,
         "RegistrationDate": 1768109993,
         "GameVersion": "unheard_edition",
         "AccountType": 0,
@@ -36268,7 +36313,11 @@
         "5f0596629e22f464da6bbdd9": false,
         "67dc255ee3028a8b120efc48": false,
         "6389c7750ef44505c87f5996": false,
-        "5c052fb986f7746b2101e909": false
+        "5c052fb986f7746b2101e909": false,
+        "61aa5b518f5e7a39b41416e2": false,
+        "61a6444b8c141d68246e2d2f": false,
+        "61aa5b7db225ac1ead7957c1": false,
+        "61aa5ba8018e9821b7368da9": false
       },
       "TaskConditionCounters": {},
       "InsuredItems": [],
@@ -40290,7 +40339,7 @@
             "stash": "696db67de76ae9798420c393",
             "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696db680e76ae9798420c3b7",
@@ -40305,7 +40354,7 @@
             "stash": "696db680e76ae9798420c3b8",
             "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         }
       ],
       "_id": "54cb50c76803fa8b248b4571"
@@ -42447,7 +42496,7 @@
             "stash": "696daa74e76ae979841807d7",
             "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         }
       ],
       "_id": "54cb57776803fa99248b456e"
@@ -44073,8 +44122,8 @@
       "_id": "5a7c2eca46aef81a7ca2145d"
     },
     "5ac3b934156ae10c4430e83c": {
-      "attachmentsNew": 15,
-      "new": 15,
+      "attachmentsNew": 0,
+      "new": 0,
       "type": 2,
       "pinned": false,
       "messages": [
@@ -59577,7 +59626,7 @@
             "stash": "696daa46e76ae9798417f97f",
             "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696daa46e76ae9798417f982",
@@ -59591,7 +59640,7 @@
             "stash": "696daa46e76ae9798417f983",
             "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696daa50e76ae9798417f988",
@@ -59605,7 +59654,7 @@
             "stash": "696daa50e76ae9798417f989",
             "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696daa50e76ae9798417f98c",
@@ -59619,7 +59668,7 @@
             "stash": "696daa50e76ae9798417f98d",
             "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696db21ee76ae979841c1dba",
@@ -59633,7 +59682,7 @@
             "stash": "696db21ee76ae979841c1dbb",
             "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696db23ce76ae979841c1dc0",
@@ -59647,7 +59696,7 @@
             "stash": "696db23ce76ae979841c1dc1",
             "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696db282e76ae979841c2e93",
@@ -59661,7 +59710,7 @@
             "stash": "696db282e76ae979841c2e94",
             "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696db28ce76ae979841c2e97",
@@ -59675,7 +59724,7 @@
             "stash": "696db28ce76ae979841c2e98",
             "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696db6bee76ae9798420c3c9",
@@ -59683,23 +59732,13 @@
           "type": 13,
           "dt": 1768797886,
           "text": "Your <b><color=#9F5ACF>SR-2M Veresk 9x21 submachine gun ☆</color></b> 1 items were bought by ChadRattin.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "696db6bee76ae9798420c3ca",
-            "data": [
-              {
-                "_id": "696db6bee76ae9798420c3cb",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "696db6bee76ae9798420c3ca",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 179988
-                }
-              }
-            ]
+            "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696db6c8e76ae9798420d13d",
@@ -59707,23 +59746,13 @@
           "type": 13,
           "dt": 1768797896,
           "text": "Your <b><color=#FFD700>SR-2M 9x21 30-round magazine</color></b> 1 items were bought by aapplesauce.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "696db6c8e76ae9798420d13e",
-            "data": [
-              {
-                "_id": "696db6c8e76ae9798420d13f",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "696db6c8e76ae9798420d13e",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 8921
-                }
-              }
-            ]
+            "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696db6d2e76ae9798420d141",
@@ -59731,23 +59760,13 @@
           "type": 13,
           "dt": 1768797906,
           "text": "Your <b><color=#FFD700>SR-2M 9x21 30-round magazine</color></b> 3 items were bought by A-lvelvelve.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "696db6d2e76ae9798420d142",
-            "data": [
-              {
-                "_id": "696db6d2e76ae9798420d143",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "696db6d2e76ae9798420d142",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 26763
-                }
-              }
-            ]
+            "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696db6dce76ae9798420d146",
@@ -59755,23 +59774,13 @@
           "type": 13,
           "dt": 1768797916,
           "text": "Your <b><color=#FFD700>SR-2M 9x21 30-round magazine</color></b> 1 items were bought by 白闲者.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "696db6dce76ae9798420d147",
-            "data": [
-              {
-                "_id": "696db6dce76ae9798420d148",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "696db6dce76ae9798420d147",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 8921
-                }
-              }
-            ]
+            "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696db6fae76ae9798420d151",
@@ -59779,23 +59788,13 @@
           "type": 13,
           "dt": 1768797946,
           "text": "Your <b><color=#FFD700>SA58/FAL 7.62x51 X Products X-FAL 50-round drum magazine</color></b> 1 items were bought by CZPZ.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "696db6fae76ae9798420d152",
-            "data": [
-              {
-                "_id": "696db6fae76ae9798420d153",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "696db6fae76ae9798420d152",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 29398
-                }
-              }
-            ]
+            "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696db6fae76ae9798420d155",
@@ -59803,23 +59802,13 @@
           "type": 13,
           "dt": 1768797946,
           "text": "Your <b><color=#FFD700>SA58/FAL 7.62x51 X Products X-FAL 50-round drum magazine</color></b> 1 items were bought by A-shturman.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "696db6fae76ae9798420d156",
-            "data": [
-              {
-                "_id": "696db6fae76ae9798420d157",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "696db6fae76ae9798420d156",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 29398
-                }
-              }
-            ]
+            "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696db6fae76ae9798420d159",
@@ -59827,23 +59816,13 @@
           "type": 13,
           "dt": 1768797946,
           "text": "Your <b><color=#f6f15d>Aimpoint Micro T-1 reflex sight ★</color></b> 1 items were bought by Skol.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "696db6fae76ae9798420d15a",
-            "data": [
-              {
-                "_id": "696db6fae76ae9798420d15b",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "696db6fae76ae9798420d15a",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 33295
-                }
-              }
-            ]
+            "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696db704e76ae9798420d15e",
@@ -59851,23 +59830,13 @@
           "type": 13,
           "dt": 1768797956,
           "text": "Your <b><color=#9F5ACF>SR-2M Veresk 9x21 submachine gun ☆</color></b> 1 items were bought by dlindik31.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "696db704e76ae9798420d15f",
-            "data": [
-              {
-                "_id": "696db704e76ae9798420d160",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "696db704e76ae9798420d15f",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 137880
-                }
-              }
-            ]
+            "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696db704e76ae9798420d162",
@@ -59875,23 +59844,13 @@
           "type": 13,
           "dt": 1768797956,
           "text": "Your <b><color=#FFD700>SA58/FAL 7.62x51 X Products X-FAL 50-round drum magazine</color></b> 1 items were bought by Amsterdaams.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "696db704e76ae9798420d163",
-            "data": [
-              {
-                "_id": "696db704e76ae9798420d164",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "696db704e76ae9798420d163",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 29398
-                }
-              }
-            ]
+            "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696db7e1e76ae9798420fdf9",
@@ -59899,23 +59858,13 @@
           "type": 13,
           "dt": 1768798177,
           "text": "Your <b><color=#f6f15d>ASh-12 12.7x55 20-round magazine</color></b> 3 items were bought by JankyTheClown.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "696db7e1e76ae9798420fdfa",
-            "data": [
-              {
-                "_id": "696db7e1e76ae9798420fdfb",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "696db7e1e76ae9798420fdfa",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 92748
-                }
-              }
-            ]
+            "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696db7e1e76ae9798420fdfd",
@@ -59923,23 +59872,13 @@
           "type": 13,
           "dt": 1768798177,
           "text": "Your <b><color=#FFD700>ASh-12 12.7x55 assault rifle</color></b> 1 items were bought by Jynxz.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "696db7e1e76ae9798420fdfe",
-            "data": [
-              {
-                "_id": "696db7e1e76ae9798420fdff",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "696db7e1e76ae9798420fdfe",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 177743
-                }
-              }
-            ]
+            "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696db809e76ae9798420fe05",
@@ -59947,23 +59886,13 @@
           "type": 13,
           "dt": 1768798217,
           "text": "Your <b><color=#f6f15d>AK-12 pistol grip</color></b> 1 items were bought by aka-zzzz.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "696db809e76ae9798420fe06",
-            "data": [
-              {
-                "_id": "696db809e76ae9798420fe07",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "696db809e76ae9798420fe06",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 7113
-                }
-              }
-            ]
+            "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696db809e76ae9798420fe09",
@@ -59971,23 +59900,13 @@
           "type": 13,
           "dt": 1768798217,
           "text": "Your <b><color=#FFD700>AK-12 handguard</color></b> 1 items were bought by Nicholas.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "696db809e76ae9798420fe0a",
-            "data": [
-              {
-                "_id": "696db809e76ae9798420fe0b",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "696db809e76ae9798420fe0a",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 10224
-                }
-              }
-            ]
+            "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696db809e76ae9798420fe0d",
@@ -59995,23 +59914,13 @@
           "type": 13,
           "dt": 1768798217,
           "text": "Your <b><color=#FFD700>AK-12 buffer tube</color></b> 1 items were bought by catears.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "696db809e76ae9798420fe0e",
-            "data": [
-              {
-                "_id": "696db809e76ae9798420fe0f",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "696db809e76ae9798420fe0e",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 10384
-                }
-              }
-            ]
+            "data": []
           },
-          "maxStorageTime": 259200
+          "maxStorageTime": 86313600
         },
         {
           "_id": "696db809e76ae9798420fe11",
@@ -60019,21 +59928,109 @@
           "type": 13,
           "dt": 1768798217,
           "text": "Your <b><color=#39FF14>AK-12 5.45x39 early model 30-round magazine</color></b> 1 items were bought by MT_Militia.",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "696db809e76ae9798420fe12",
-            "data": [
-              {
-                "_id": "696db809e76ae9798420fe13",
-                "_tpl": "5449016a4bdc2d6f028b456f",
-                "parentId": "696db809e76ae9798420fe12",
-                "slotId": "main",
-                "upd": {
-                  "StackObjectsCount": 13872
-                }
-              }
-            ]
+            "data": []
+          },
+          "maxStorageTime": 86313600
+        },
+        {
+          "_id": "696dbad5bae61d113c88f836",
+          "uid": "5ac3b934156ae10c4430e83c",
+          "type": 13,
+          "dt": 1768798933,
+          "text": "Your <b><color=#FF4040>BOSS cap ☆</color></b> 1 items were bought by Blyat_Eto_Kusty.",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "696dbad5bae61d113c88f837",
+            "data": []
+          },
+          "maxStorageTime": 259200
+        },
+        {
+          "_id": "696dbaf3bae61d113c88f83b",
+          "uid": "5ac3b934156ae10c4430e83c",
+          "type": 13,
+          "dt": 1768798963,
+          "text": "Your <b><color=#f6f15d>9x21mm 7N42 Zubilo (49/38) ★</color></b> 369 items were bought by DanW.",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "696dbaf3bae61d113c88f83c",
+            "data": []
+          },
+          "maxStorageTime": 259200
+        },
+        {
+          "_id": "696dbafdbae61d113c88f841",
+          "uid": "5ac3b934156ae10c4430e83c",
+          "type": 13,
+          "dt": 1768798973,
+          "text": "Your <b><color=#FFD700>AHF1-M stimulant injector ★</color></b> 1 items were bought by ZeroGods.",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "696dbafdbae61d113c88f842",
+            "data": []
+          },
+          "maxStorageTime": 259200
+        },
+        {
+          "_id": "696dbafebae61d113c88f845",
+          "uid": "5ac3b934156ae10c4430e83c",
+          "type": 13,
+          "dt": 1768798974,
+          "text": "Your <b><color=#f6f15d>9x21mm 7N42 Zubilo (49/38) ★</color></b> 43 items were bought by Captain_Bear.",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "696dbafebae61d113c88f846",
+            "data": []
+          },
+          "maxStorageTime": 259200
+        },
+        {
+          "_id": "696dbb08bae61d113c88f849",
+          "uid": "5ac3b934156ae10c4430e83c",
+          "type": 13,
+          "dt": 1768798984,
+          "text": "Your <b><color=#9F5ACF>Glock 18C 9x19 machine pistol ☆</color></b> 1 items were bought by Pizza_rat.",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "696dbb08bae61d113c88f84a",
+            "data": []
+          },
+          "maxStorageTime": 259200
+        },
+        {
+          "_id": "696dbb08bae61d113c88f84d",
+          "uid": "5ac3b934156ae10c4430e83c",
+          "type": 13,
+          "dt": 1768798984,
+          "text": "Your <b><color=#f6f15d>9x21mm 7N42 Zubilo (49/38) ★</color></b> 10 items were bought by GamesB4Gains.",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "696dbb08bae61d113c88f84e",
+            "data": []
+          },
+          "maxStorageTime": 259200
+        },
+        {
+          "_id": "696dbb12bae61d113c88f851",
+          "uid": "5ac3b934156ae10c4430e83c",
+          "type": 13,
+          "dt": 1768798994,
+          "text": "Your <b><color=#f6f15d>9x21mm 7N42 Zubilo (49/38) ★</color></b> 1 items were bought by CatMat.",
+          "hasRewards": false,
+          "rewardCollected": true,
+          "items": {
+            "stash": "696dbb12bae61d113c88f852",
+            "data": []
           },
           "maxStorageTime": 259200
         }
@@ -62188,7 +62185,8 @@
           "type": 1,
           "dt": 1768796623,
           "text": "その武器を使いこなしてるようだな。なにかヒントは",
-          "items": {}
+          "items": {},
+          "maxStorageTime": 86313600
         }
       ],
       "_id": "696db051e76ae979841b437c"
@@ -62453,12 +62451,7 @@
     },
     "5a7c2eca46aef81a7ca2145d": {},
     "5935c25fb3acc3127c3d8cd9": {},
-    "5c0647fdd443bc2504c2d371": {
-      "686e34236c2a18ed6b0e93de": {
-        "count": 3,
-        "purchaseTimestamp": 1768793153
-      }
-    },
+    "5c0647fdd443bc2504c2d371": {},
     "6617beeaa9cfa777ca915b7c": {},
     "54cb50c76803fa8b248b4571": {
       "686e34646c2a18ed6b0ead75": {
